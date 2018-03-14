@@ -1,0 +1,100 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Tahoma;
+	line-height: 1.5;
+	color: #333;
+}
+.section {
+
+	padding: 30px 10%;
+	/*margin: auto;*/
+}
+h1 {
+	margin: 70px;
+	font-size: 24px;	
+	text-align: center;	
+}
+span {
+	display: block;
+	font-weight: 400;
+}
+strong {
+	text-transform: uppercase;
+	font-weight: 800;
+	
+}
+.main {
+	margin: 10px 10%;
+}
+.video {
+	display: inline-block;
+}
+.form {
+	margin-left: 30px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	border: 10px solid #3c3cdd;
+	padding: 30px 20px;
+}
+.form p {
+margin-top: 0px;
+margin-bottom: 30px;
+font-size: 20px;
+font-weight: 800;
+}
+.form input {
+	font-size: 18px;
+	display: block;
+	margin: auto;
+	margin-top: 11px;
+	width: 300px;
+	border: 1px solid #333333;
+}
+input {
+	padding: 15px;
+}
+button {
+	display: block;
+	margin: auto;
+	padding: 25px;
+	background-color: #3c3cdd;
+	border: none;
+	margin-top: 20px;
+	width: 300px;
+	font-size: 18px;
+	color: white;
+}
+h2 {
+	text-transform: uppercase;
+	line-height: 1.5;
+	text-align: center;
+	font-weight: bold;
+	font-size: 24px;
+}
+.feature {margin: auto;
+	margin-top: 70px;
+
+
+}
+.col {
+		display: inline-block;
+	text-align: center;
+	margin: 10px 60px;
+}
+/*img {
+	text-align: center;
+
+}*/
+.col p {
+	font-size: 16px;
+	font-weight: bold;
+}
+.img-group img {
+	margin: 17px 12.5px;
+}
+.img-group {
+	padding-bottom:  30px;
+}
